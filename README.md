@@ -18,6 +18,7 @@ http://127.0.0.1:6666/refuse     刷新页面，需要安装nginx。
 http://127.0.0.1:6666/upload     上传到数据库。
 
 PS:需要下载BBDown,ffmpeg来合并B站视频：
+下载链接：
 
 ![image](https://github.com/xwg666/bili_getvideo/assets/95574231/a0649ff3-ea8c-4a2b-8cb6-2a77eb6b92da)
 
