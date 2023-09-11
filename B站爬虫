@@ -806,4 +806,4 @@ if __name__ == '__main__':
     # os.chdir('D:/nginx-1.25.2')
     # os.system('start nginx.exe')
     # print('启动nginx服务')
-    app.run(host='0.0.0.0', port=9966, debug=True)
+    app.run(host='0.0.0.0', port=6666, debug=True)
