@@ -5,10 +5,10 @@ import time
 import requests
 
 def my_function():
-    print(datetime.datetime.now())   #http://192.168.5.145:9966/upload
-    for i in ['http://192.168.5.145:9966/duanzi','http://192.168.5.145:9966/zuiyou',
-              'http://192.168.5.145:9966/A9VG','http://192.168.5.145:9966/youyanshe','http://192.168.5.145:9966/all_bili',
-              'http://192.168.5.145:9966/rename','http://192.168.5.145:9966/refuse','http://192.168.5.145:9966/upload']:
+    print(datetime.datetime.now())   #http://127.0.0.1:6666/upload
+    for i in ['http://127.0.0.1:6666/duanzi','http://127.0.0.1:6666/zuiyou',
+              'http://127.0.0.1:6666/A9VG','http://127.0.0.1:6666/youyanshe','http://127.0.0.1:6666/all_bili',
+              'http://127.0.0.1:6666/rename','http://127.0.0.1:6666/refuse','http://127.0.0.1:6666/upload']:
             response=requests.get(i)
             if response.status_code==200:
                 print(response.content.decode('utf-8'))
