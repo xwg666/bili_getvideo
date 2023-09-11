@@ -18,7 +18,8 @@ http://127.0.0.1:6666/refuse     刷新页面，需要安装nginx。
 http://127.0.0.1:6666/upload     上传到数据库。
 
 PS:需要下载BBDown,ffmpeg来合并B站视频：
-下载链接：
+
+下载链接：（直接解压到D盘即可，里面包含BBDwon和ffmpeg）
 链接：https://pan.baidu.com/s/1Bao_Q2SYhXwhq4vX9d6oSQ?pwd=1234
 提取码：1234
 
