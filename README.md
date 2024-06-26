@@ -1,3 +1,6 @@
+#直接需要下载器的，可以用现成的：
+![image](https://github.com/xwg666/bili_getvideo/assets/95574231/4248e4e8-9664-40b3-bd91-363bc9c4345f)
+
 # bili_getvideo
 爬取B站【首页，游戏，动画，鬼畜，生活，娱乐】板块及游研社，V9AG博主的视频，另外还可以爬最右，云段子网站
 请求方式：
