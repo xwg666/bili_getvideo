@@ -1,7 +1,7 @@
 #直接需要下载器的，可以用现成的：
 下载地址：https://github.com/xwg666/bili_getvideo/blob/master/B%E7%AB%99%E4%B8%8B%E8%BD%BD%E5%99%A8.exe
 
-![image](https://github.com/xwg666/bili_getvideo/assets/95574231/4248e4e8-9664-40b3-bd91-363bc9c4345f)
+[![image](https://github.com/xwg666/bili_getvideo/assets/95574231/4248e4e8-9664-40b3-bd91-363bc9c4345f)](https://github.com/xwg666/bili_getvideo/tree/master)
 
 # bili_getvideo
 爬取B站【首页，游戏，动画，鬼畜，生活，娱乐】板块及游研社，V9AG博主的视频，另外还可以爬最右，云段子网站
